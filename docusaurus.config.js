@@ -37,7 +37,7 @@ const config = {
         },
         docs: {
           routeBasePath: "/docs",
-          editUrl: "https://github.com/seknot",
+          editUrl: "https://github.com/Seknot/docs/tree/main",
         },
       },
     ],
