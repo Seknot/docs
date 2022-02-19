@@ -36,7 +36,7 @@ const config = {
           customCss: [require.resolve("./src/css/custom.css")]
         },
         docs: {
-          routeBasePath: "/",
+          routeBasePath: "/docs",
           editUrl: "https://github.com/seknot/docs",
         },
       },
