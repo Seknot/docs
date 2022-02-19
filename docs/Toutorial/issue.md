@@ -45,5 +45,6 @@ Postmanを利用する場合は、`Client ID`と`Client Secret`を指定して�
 }
 ```
 このとき、上のようにTokenの名前やsymbolなどを指定する必要があります。
+
 2. 無事に実行が終わると発行されたTokenの情報を取得できます。このとき必ず、Tokenの`address`をメモしておいてください。  
 3. Polygon Scan maticなどで実際にアドレスを入力してみると指定した通りのTokenが発行されていることが確認できます。 
