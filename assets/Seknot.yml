@@ -79,10 +79,10 @@ paths:
             examples:
               HackTokenを発行:
                 value:
-                  tokenName: HackToken
-                  tokenVersion: '1.0'
-                  tokenSymbol: SEC
-                  tokenTotalSupply: '1000'
+                  name: HackToken
+                  version: '1.0'
+                  symbol: SEC
+                  totalSupply: '1000'
                   decimals: 0
                   serviceWallet: 0x9193ab3DCadc8DJS1A0ed19CB0395247f387222c
         description: ''
