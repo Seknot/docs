@@ -20,6 +20,13 @@ function HomepageHeader() {
           >
             使い方を見る️
           </Link>
+        <span>　</span>
+          <Link
+            className="button button--secondary button--lg"
+            to="https://seknot.net"
+          >
+            公式サイト
+          </Link>
         </div>
       </div>
     </header>
